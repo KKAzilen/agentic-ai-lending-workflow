@@ -1,0 +1,18 @@
+[
+  {
+    "id": "L001",
+    "name": "Alice Adams",
+    "annual_income": 85000,
+    "credit_score": 740,
+    "loan_amount_requested": 20000,
+    "loan_purpose": "Home improvement"
+  },
+  {
+    "id": "L002",
+    "name": "Bob Brown",
+    "annual_income": 45000,
+    "credit_score": 620,
+    "loan_amount_requested": 15000,
+    "loan_purpose": "Education"
+  }
+]
